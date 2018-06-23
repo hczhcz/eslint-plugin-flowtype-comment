@@ -1,0 +1,28 @@
+{
+  "name": "eslint-plugin-flowtype-comment",
+  "version": "1.0.0",
+  "description": "Comment type preprocessor of Flowtype",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "peerDependencies": {
+    "eslint": ">=0.8.0"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hczhcz/eslint-plugin-flowtype-comment.git"
+  },
+  "keywords": [
+    "flow",
+    "flowtype",
+    "eslint",
+    "babel"
+  ],
+  "author": "hczhcz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hczhcz/eslint-plugin-flowtype-comment/issues"
+  },
+  "homepage": "https://github.com/hczhcz/eslint-plugin-flowtype-comment#readme"
+}
